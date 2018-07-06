@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1837" started-at="2018-07-06T07:15:12Z" finished-at="2018-07-06T07:15:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1837" started-at="2018-07-06T07:15:12Z" finished-at="2018-07-06T07:15:13Z">
+      <class name="TestCheckResponse">
+        <test-method status="PASS" signature="TestReadResponse()[pri:0, instance:TestCheckResponse@1b604f19]" name="TestReadResponse" duration-ms="1118" started-at="2018-07-06T07:15:12Z" finished-at="2018-07-06T07:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReadResponse -->
+        <test-method status="PASS" signature="Testcheck()[pri:0, instance:TestCheckResponse@1b604f19]" name="Testcheck" duration-ms="696" started-at="2018-07-06T07:15:13Z" finished-at="2018-07-06T07:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcheck -->
+      </class> <!-- TestCheckResponse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
